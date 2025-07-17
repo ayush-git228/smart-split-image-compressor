@@ -1,0 +1,1 @@
+# smart-split-image-compressor
