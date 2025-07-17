@@ -1,0 +1,13 @@
+streamlit
+opencv-python
+numpy
+facenet-pytorch
+torch
+torchvision
+matplotlib
+scikit-learn
+Pillow
+scipy
+streamlit-drawable-canvas
+PyWavelets
+streamlit-overlay
