@@ -11,3 +11,4 @@ scipy
 streamlit-drawable-canvas
 PyWavelets
 streamlit-overlay
+opencv-python-headless
