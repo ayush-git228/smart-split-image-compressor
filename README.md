@@ -1,7 +1,8 @@
-# ⚡️ Smart Split Image Compressor 
+# ⚡️ Smart Split Image Compressor
 
 ✨ Cutting-edge side-by-side image compression lab: Classic, Modern, and AI Native Algorithms in One Interactive Web App!
 
+🔗 https://smart-split-image-compress.streamlit.app/
 ---
 
 ## 🚀 What is this app?
