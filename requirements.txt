@@ -1,5 +1,5 @@
 streamlit==1.40.0
-opencv-python-headless
+opencv-python
 numpy
 facenet-pytorch
 torch
@@ -11,3 +11,4 @@ scipy
 streamlit-drawable-canvas
 PyWavelets
 streamlit-overlay
+opencv-python-headless
